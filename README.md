@@ -1,35 +1,31 @@
 ![tp2](https://github.com/alejo-marino/algo3_tp2/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/alejo-marino/algo3_tp2/branch/master/graph/badge.svg)](https://codecov.io/gh/alejo-marino/algo3_tp2)
 
-# TP2 Algoritmos 3: {T.E.G.} 
+# GP2 Algorithms and Programing 3: {T.E.G.} 
 
 Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUBA
+Group Project number 2 for the Algorithms and Programing III subject of the faculty of engineering or the
+Universidad de Buenos Aires (FIUBA)
 
-## Grupo {N°17}
+## Desctiption: 
+Java Application which matches the strategy game RISK in which players, up to 6, fight to complete their objectives. 
+The Project was made based in Object Oriented Programing using Java, and JavaFX for our graphical interface
 
-* **Integrante 1** - [Alejo Tomás Mariño](https://github.com/alejo-marino) (Padron: 105645)
-* **Integrante 2** - [Juan Ignacio Colombo](https://github.com/juanicolombo97) (Padron: 103471)
-* **Integrante 3** - [Joaquín Matías Velazquez](https://github.com/jm-velazquez) (Padron: 105980)
-* **Integrante 4** - [Mateo Miniati](https://github.com/miniatimat) (Padron: 106153)
-* **Integrante 5** - [Martin Scazzola](https://github.com/MartinScazzola) (Padron: 106403)
+## Group {N°17}
 
-Corrector: **{Thiago}**
-2do corrector: **{Joaquin G}**
+* [Alejo Tomás Mariño](https://github.com/alejo-marino) (Student ID: 105645)
+* [Juan Ignacio Colombo](https://github.com/juanicolombo97) (Student ID: 103471)
+* [Joaquín Matías Velazquez](https://github.com/jm-velazquez) (Student ID: 105980)
+* [Mateo Miniati](https://github.com/miniatimat) (Student ID: 106153)
+* [Martin Scazzola](https://github.com/MartinScazzola) (Student ID: 106403)
 
-## Aplicación
+To execute the program:
 
-La versión más reciente de la aplicación puede encontrarse en la pestaña [releases](https://github.com/alejo-marino/algo3_tp2/releases/latest) y ejecutarse en Linux, Windows o Mac de esta forma:
+1: Download the code. 
 
-```bash
-$ java -jar <archivo.jar>
-```
+2: Extract the files
 
-## Desarrollo
+3: Open the folder
 
-Aquellos que deseen colaborar con el proyecto pueden consultar la [guía de desarrollo](./docs/Desarrollo.md).
+4: Click on RISK.jar
 
-## Licencia
-
-
-Este repositorio se encuentra bajo la Licencia MIT.
-
-
+Program was coded in spanish. 
