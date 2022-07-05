@@ -1,6 +1,6 @@
 ![tp2](https://github.com/alejo-marino/algo3_tp2/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/alejo-marino/algo3_tp2/branch/master/graph/badge.svg)](https://codecov.io/gh/alejo-marino/algo3_tp2)
 
-# GP2 Algorithms and Programing 3: {T.E.G.} 
+# GP2 Algorithms and Programing 3: {RISK} 
 
 Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUBA
 Group Project number 2 for the Algorithms and Programing III subject of the faculty of engineering or the
