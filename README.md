@@ -2,7 +2,7 @@
 
 # GP2 Algorithms and Programing 3: {RISK} 
 
-Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUBA
+Group Project number 2 for subject "Algoritmos y Programación III" of FIUBA
 Group Project number 2 for the Algorithms and Programing III subject of the faculty of engineering or the
 Universidad de Buenos Aires (FIUBA)
 
